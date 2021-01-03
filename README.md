@@ -21,7 +21,7 @@ My submitted solutions for all of my Machine learning and Deep learning competit
     <td>Carnival Wars by HackerEarth</td>
   </tr>
   <tr>
-    <td><img src="images/carnival_wars.jpg" width=1024></td>
+    <td><img src="images/carnivalWars.jpg" width=1024></td>
   </tr>
 
  </table>
